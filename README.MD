@@ -30,7 +30,7 @@ In this specific assignment the candidate is a Data Analyst who is expected to u
 <p>After this, you should read through the <a href="https://github.com/deborabastos/accenture_data_analytics/blob/main/Internal%20stakeholder%20chart.pdf">organization map</a> and each individual's role and responsibilities. This will give you a holistic understanding of the Accenture team working on this project and each individuals’ role and responsibilities.</p>
 
 <p>3. Project understanding</p>
-<p>Once you’ve read the resources below, make sure you have a confident understanding of the following three questions:</p>
+<p>Once you’ve read the resources, make sure you have a confident understanding of the following three questions:</p>
 
 <ul>
   <li>What is the business problem that Accenture is trying to tackle for this client?</li>
