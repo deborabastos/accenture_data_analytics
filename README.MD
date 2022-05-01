@@ -27,7 +27,7 @@ In this specific assignment the candidate is a Data Analyst who is expected to u
 <p>Before attempting to complete this task, you should take your time to fully understand the <a href="https://github.com/deborabastos/accenture_data_analytics/blob/main/Data_Analytics%20Client%20Brief.pdf">client brief</a>.</p>
 
 <p>2. Internal background</p>
-<p>After this, you should read through the organization map and each individual's role and responsibilities. This will give you a holistic understanding of the Accenture team working on this project and each individuals’ role and responsibilities.</p>
+<p>After this, you should read through the <a href="https://github.com/deborabastos/accenture_data_analytics/blob/main/Internal%20stakeholder%20chart.pdf">organization map</a> and each individual's role and responsibilities. This will give you a holistic understanding of the Accenture team working on this project and each individuals’ role and responsibilities.</p>
 
 <p>3. Project understanding</p>
 <p>Once you’ve read the resources below, make sure you have a confident understanding of the following three questions:</p>
