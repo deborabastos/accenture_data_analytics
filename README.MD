@@ -15,9 +15,9 @@ This repository contains my attempt at the Forage Accenture Data Analytics Virtu
   <li>To activate: source <name_env>/bin/activate</li>
 </ul>
 
+<p><ins>Project requirements</ins></p>
 
-Project requirements
-
--- Pandas: pip install pandas
-
+<ul>
+  <li>Pandas: pip install pandas</li>
+</ul>
 </details>
