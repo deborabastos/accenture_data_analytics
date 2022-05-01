@@ -21,20 +21,24 @@ In this specific assignment the candidate is a Data Analyst who is expected to u
 
 <p>To make sure that you have understood the project, you will be tested on an outline of the business problem, the requirements and the delegation of tasks.</p>
 
-<p><strong>Here is your task</strong></p>
+<p><strong>Here is your task:</strong></p>
 
-Client background
-Before attempting to complete this task, you should take your time to fully understand the client brief.
+<p>1. Client background</p>
+<p>Before attempting to complete this task, you should take your time to fully understand the client brief.</p>
 
-Internal background
-After this, you should read through the organization map and each individual's role and responsibilities. This will give you a holistic understanding of the Accenture team working on this project and each individuals’ role and responsibilities.
+<p>2. Internal background</p>
+<p>After this, you should read through the organization map and each individual's role and responsibilities. This will give you a holistic understanding of the Accenture team working on this project and each individuals’ role and responsibilities.</p>
 
-Project understanding
-Once you’ve read the resources below, make sure you have a confident understanding of the following three questions:
+<p>3. Project understanding</p>
+<p>Once you’ve read the resources below, make sure you have a confident understanding of the following three questions:</p>
 
-What is the business problem that Accenture is trying to tackle for this client?
-Based on this business problem, what are the requirements that Accenture is expected to deliver?
-Finally, based on these requirements, what tasks are most likely to be relevant to you as the data analyst?
+<ul>
+  <li>What is the business problem that Accenture is trying to tackle for this client?</li>
+  <li>Based on this business problem, what are the requirements that Accenture is expected to deliver?</li>
+  <li>Finally, based on these requirements, what tasks are most likely to be relevant to you as the data analyst?</li> 
+</ul>
+
+
 
 
 
