@@ -9,20 +9,10 @@ This repository contains my attempt at the Forage Accenture Data Analytics Virtu
 
 <details>
 <summary>My notes</summary>
-#### Virtual enviroment:
-- To create:
-```
-python -m venv <name_env>
-```
-- To activate:
-```
-source <name_env>/bin/activate
-```
+To create a virtual enviroment: python -m venv <name_env>
+To activate: source <name_env>/bin/activate
 
-#### Requirements
-- Pandas
-```
-pip install pandas
-```
+Project requirements
+- Pandas: pip install pandas
 
 </details>
