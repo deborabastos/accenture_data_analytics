@@ -11,8 +11,8 @@ This repository contains my attempt at the Forage Accenture Data Analytics Virtu
 <summary>My notes</summary>
 <p><ins>Virtual enviroment:</ins></p>
 <ul>
-  <li>To create: python -m venv <name_env></li>
-  <li>To activate: source <name_env>/bin/activate</li>
+  <li>To create: python -m venv \<name_env></li>
+  <li>To activate: source \<name_env>/bin/activate</li>
 </ul>
 
 <p><ins>Project requirements</ins></p>
