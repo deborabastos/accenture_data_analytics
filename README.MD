@@ -21,7 +21,7 @@ In this specific assignment the candidate is a Data Analyst who is expected to u
 
 <p>To make sure that you have understood the project, you will be tested on an outline of the business problem, the requirements and the delegation of tasks.</p>
 
-<h3>Here is your task<h3>
+<p><strong>Here is your task</strong></p>
 
 Client background
 Before attempting to complete this task, you should take your time to fully understand the client brief.
