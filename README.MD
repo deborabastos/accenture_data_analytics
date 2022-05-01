@@ -87,6 +87,9 @@ In this specific assignment the candidate is a Data Analyst who is expected to u
 <p>2. Create a presentation</p>
 <p>It is your job to ensure that the presentation of the results is clear and can be easily understood by your internal team and the client. You should create a PowerPoint slide deck that presents your results with accompanying slides and visualizations. Not all slides need to contain visualizations – use some slides to set up the story that you’re telling! It is important to make sure that your presentation follows a clear structure and takes your client on a journey through their data and business problems. Your slide deck should be concise, approximately 10 slides. You should also include an introduction slide where you introduce yourself and your role on the project.</p>
 
+
+ <a href="https://github.com/deborabastos/accenture_data_analytics/blob/main/resources/Presentation%20Template.pdf">Presentation templates</a>
+
 <p>3. Storytelling</p>
 <p>Make sure that throughout your presentation you incorporate storytelling. Make use of the techniques outlined in the additional resources and try to make the presentation as engaging and persuasive as possible. Using soft and hard skills, such as presentation and statistical analysis respectively, is key to a data analysts’ job. </p>
 
