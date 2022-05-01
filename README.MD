@@ -97,9 +97,6 @@ In this specific assignment the candidate is a Data Analyst who is expected to u
 </details>
 
 
-
-
-
 <details>
 <summary><ins>My notes</ins></summary>
 <p><ins>Virtual enviroment:</ins></p>
