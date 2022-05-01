@@ -6,7 +6,7 @@ Forage Accenture Data Analytics Virtual Experience is a intership simulation whi
 In this specific assignment the candidate is a Data Analyst who is expected to understand the client and business problem at hand and provide important insights using the avaliable data sets. 
 
 <details>
-<summary><ins>Project Understanding</ins></summary>
+<summary><ins>Task 1: Project Understanding</ins></summary>
 <p>You’ve been assigned to a new project and the first thing you must do is get up to speed with the business problem that this project is tackling, the requirements that need to be fulfilled as deliverables and the alignment of internal teams with the client.</p>
 
 <p>You will be working within a large team at Accenture and there will be several people on your team doing different roles to make this project a success.</p>
@@ -37,8 +37,16 @@ In this specific assignment the candidate is a Data Analyst who is expected to u
   <li>Based on this business problem, what are the requirements that Accenture is expected to deliver?</li>
   <li>Finally, based on these requirements, what tasks are most likely to be relevant to you as the data analyst?</li> 
 </ul>
+</details>
 
 
+<details>
+<summary><ins>Task 2: Data Cleaning & Modeling</ins></summary>
+<p>You have been given a <a href="https://github.com/deborabastos/accenture_data_analytics/tree/main/data">set of data sets</a>, all containing different columns and values, as well as a data model. A data model shows the relationships between all of the data sets, as well as any links that you can use to merge tables.</p>
+
+<p>It is your job to use these data sets as well as the data model, to create your own data set that you can use to fulfill the requirements of this task.</p>
+
+<p>This task is essential because it is one of the specific requirements that the client has asked for, so we are relying on the data analyst to work with the data and create accurate, reliable insights that can be backed up during the final presentation.</p>
 
 
 
@@ -46,6 +54,10 @@ In this specific assignment the candidate is a Data Analyst who is expected to u
 
 
 </details>
+
+
+
+
 
 
 <details>
