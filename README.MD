@@ -90,7 +90,9 @@ In this specific assignment the candidate is a Data Analyst who is expected to u
 <p>3. Storytelling</p>
 <p>Make sure that throughout your presentation you incorporate storytelling. Make use of the techniques outlined in the additional resources and try to make the presentation as engaging and persuasive as possible. Using soft and hard skills, such as presentation and statistical analysis respectively, is key to a data analysts’ job. </p>
 
- <a href="https://github.com/deborabastos/accenture_data_analytics/blob/main/resources/Presentation%20Template.pdf">Presentation templates</a>
+ <a href="https://github.com/deborabastos/accenture_data_analytics/blob/main/resources/Presentation%20Template.pdf">Presentation template (pdf)</a>
+
+ <a href="https://github.com/deborabastos/accenture_data_analytics/blob/main/resources/Accenture.Data.Analytics.Presentation.pptx">Presentation template (pptx)</a>
 
 </details>
 
