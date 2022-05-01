@@ -2,6 +2,13 @@
 This repository contains my attempt at the Forage Accenture Data Analytics Virtual Experience which you can find [here](https://www.theforage.com/virtual-internships/hzmoNKtzvAzXsEqx8?ref=RiQGb5822vPSKB9bg)
 
 
+
+
+
+
+
+<details>
+<summary>My notes</summary>
 #### Virtual enviroment:
 - To create:
 ```
@@ -18,3 +25,4 @@ source <name_env>/bin/activate
 pip install pandas
 ```
 
+</details>
