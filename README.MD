@@ -109,5 +109,8 @@ In this specific assignment the candidate is a Data Analyst who is expected to u
 
 <ul>
   <li>Pandas: pip install pandas</li>
+  <li>Matplotlib: pip install matplot</li>
+  <li>Seaborn: pip install seaborn</li>
+
 </ul>
 </details>
