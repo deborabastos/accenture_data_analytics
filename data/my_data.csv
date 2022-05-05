@@ -1,4 +1,4 @@
-Content ID,Reaction Type,Datetime,User_ID_(Post_owner),Content_Type,Category,Sentiment,Score
+Content ID,Reaction_Type,Datetime,User_ID_(Post_owner),Content_Type,Category,Sentiment,Score
 97522e57-d9ab-4bd6-97bf-c24d952602d2,disgust,2020-11-07 09:43:50,8d3cd87d-8a31-4935-9a4f-b319bfe05f31,photo,studying,negative,0.0
 97522e57-d9ab-4bd6-97bf-c24d952602d2,dislike,2021-06-17 12:22:51,8d3cd87d-8a31-4935-9a4f-b319bfe05f31,photo,studying,negative,10.0
 97522e57-d9ab-4bd6-97bf-c24d952602d2,scared,2021-04-18 05:13:58,8d3cd87d-8a31-4935-9a4f-b319bfe05f31,photo,studying,negative,15.0
